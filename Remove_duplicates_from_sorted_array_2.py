@@ -1,4 +1,4 @@
-# Time Complexity : O(m+n)
+# Time Complexity : O(N)
 # Space Complexity : O(1)
 # Did this code successfully run on Leetcode : Yes
 # Three line explanation of solution in plain english
